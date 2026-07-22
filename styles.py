@@ -351,6 +351,20 @@ def apply_styles():
 
 
     }
+    [data-testid="stFileUploaderDropzone"] span {
+    
+        color:#6b7280 !important;
+    
+    }
+    
+    
+    [data-testid="stFileUploaderDropzone"] svg {
+    
+        color:#6b7280 !important;
+    
+        fill:#6b7280 !important;
+    
+    }
 
 
 
