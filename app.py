@@ -213,7 +213,7 @@ if uploaded_file:
     # Skill Extraction Page
     elif page == "Skill Extraction":
 
-        st.header("🛠 Skill Extraction")
+        st.header("🎯 Skill Extraction")
 
         col1, col2 = st.columns([2, 1])
 
