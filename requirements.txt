@@ -4,7 +4,6 @@ scikit-learn
 nltk
 Pillow
 wordcloud
-matplotlibstreamlit
 pandas
 numpy
 matplotlib
