@@ -356,6 +356,11 @@ def apply_styles():
         color:#6b7280 !important;
     
     }
+    [data-testid="stFileUploaderDropzone"] button div p {
+
+        color:#6b7280 !important;
+    
+    }
     
     
     [data-testid="stFileUploaderDropzone"] svg {
